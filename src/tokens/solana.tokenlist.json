@@ -126768,6 +126768,17 @@
     },
     {
       "chainId": 101,
+      "address": "Tozjd4jBMR5H846dvDcQb4tUvYxQXaua5MeikndWmfY",
+      "symbol": "HHWL",
+      "name": "HH Whitelist Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Tozjd4jBMR5H846dvDcQb4tUvYxQXaua5MeikndWmfY/logo.png",
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "FFBnqafsjrvvxxf5n3Tzba8V7vWPb8wr5DPEog1VAwff",
       "symbol": "THUGZ",
       "name": "Thugbirdz Droplet",
